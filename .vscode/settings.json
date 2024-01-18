@@ -1,0 +1,13 @@
+{
+  "window.zoomLevel": 2,
+  "code-runner.executorMap": {
+    "typescript": "npx ts-node --files --transpile-only",
+    "python": "venv/bin/python"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll": "explicit"
+  },
+  "python.pythonPath": "venv/bin/python",
+  "cSpell.enabled": true
+}
